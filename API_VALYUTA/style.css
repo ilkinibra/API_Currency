@@ -1,0 +1,28 @@
+.area{
+    display: flex;
+}
+.input-group{
+    width: 30%;
+    margin-left: 20px;
+}
+.form-select{
+    width: 20%;
+    margin-left: 20px;
+}
+.btn{
+    height: 47px;
+    margin-left: 20px;
+}
+.container{
+    margin-top: 50px;
+}
+.result{
+    margin-left: 20px;
+    display: flex;
+}
+.result span,p{
+    font-size: 20px;
+}
+.result p{
+    margin-left: 10px;
+}
